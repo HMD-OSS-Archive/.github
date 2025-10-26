@@ -34,6 +34,7 @@ The table below provides a summary of all archived devices.
 
 | Device Name | Latest Kernel Version | Last Updated | Repository Link |
 |-------------|-----------------------|--------------|-----------------|
+| **HMD Vibe** | `HMDVibe_V1.110` | 2025-10-26 | [android_kernel_hmd_vibe](https://github.com/HMD-OSS-Archive/android_kernel_hmd_vibe) |
 | **HMD Fusion** | `HMD_Fusion_V2.430.tar` | 2025-09-21 | [android_kernel_hmd_fusion](https://github.com/HMD-OSS-Archive/android_kernel_hmd_fusion) |
 | **Nokia G10** | `NokiaG10_V3.270` | 2025-09-04 | [android_kernel_nokia_g10](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g10) |
 | **HMD Pulse+** | `HMDPulse+_V2.170.tar` | 2025-09-04 | [android_kernel_hmd_pulse_plus](https://github.com/HMD-OSS-Archive/android_kernel_hmd_pulse_plus) |
@@ -51,7 +52,6 @@ The table below provides a summary of all archived devices.
 | **HMD Pulse Pro** | `HMDPulsePro_V2.170.tar` | 2025-09-04 | [android_kernel_hmd_pulse_pro](https://github.com/HMD-OSS-Archive/android_kernel_hmd_pulse_pro) |
 | **Nokia XR21** | `NokiaXR21_V3.150` | 2025-09-04 | [android_kernel_nokia_xr21](https://github.com/HMD-OSS-Archive/android_kernel_nokia_xr21) |
 | **HMD T21** | `HmdT21_V3.210` | 2025-09-04 | [android_kernel_hmd_t21](https://github.com/HMD-OSS-Archive/android_kernel_hmd_t21) |
-| **HMD Vibe** | `HMDVibe_V1.040` | 2025-09-04 | [android_kernel_hmd_vibe](https://github.com/HMD-OSS-Archive/android_kernel_hmd_vibe) |
 | **Nokia T10** | `NokiaT10_V1.320` | 2025-09-04 | [android_kernel_nokia_t10](https://github.com/HMD-OSS-Archive/android_kernel_nokia_t10) |
 | **Nokia T21** | `NokiaT21_V2.340` | 2025-09-04 | [android_kernel_nokia_t21](https://github.com/HMD-OSS-Archive/android_kernel_nokia_t21) |
 | **Nokia X30 5G** | `NokiaX305G_V3.180` | 2025-09-04 | [android_kernel_nokia_x30_5g](https://github.com/HMD-OSS-Archive/android_kernel_nokia_x30_5g) |
