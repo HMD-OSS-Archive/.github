@@ -34,6 +34,10 @@ The table below provides a summary of all archived devices.
 
 | Device Name | Latest Kernel Version | Last Updated | Repository Link |
 |-------------|-----------------------|--------------|-----------------|
+| **Nokia G20** | *Import Failed* | 2026-08-30 | [android_kernel_nokia_g20](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g20) |
+| **Nokia C12** | *Import Failed* | 2026-08-30 | [android_kernel_nokia_c12](https://github.com/HMD-OSS-Archive/android_kernel_nokia_c12) |
+| **Nokia 1.4** | *Import Failed* | 2026-08-30 | [android_kernel_nokia_1.4](https://github.com/HMD-OSS-Archive/android_kernel_nokia_1.4) |
+| **HMD Aura** | *Import Failed* | 2026-08-30 | [android_kernel_hmd_aura](https://github.com/HMD-OSS-Archive/android_kernel_hmd_aura) |
 | **Nokia X10** | `NokiaX10_v1.010` | 2026-08-26 | [android_kernel_nokia_x10](https://github.com/HMD-OSS-Archive/android_kernel_nokia_x10) |
 | **Nokia XR21** | `NokiaXR21_V3.150` | 2026-08-26 | [android_kernel_nokia_xr21](https://github.com/HMD-OSS-Archive/android_kernel_nokia_xr21) |
 | **Nokia G42 5G** | `NokiaG425G_V2.160` | 2026-08-26 | [android_kernel_nokia_g42_5g](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g42_5g) |
@@ -57,7 +61,6 @@ The table below provides a summary of all archived devices.
 | **Nokia 8.3 5G** | `Nokia8.3_V2.210_B01` | 2026-08-26 | [android_kernel_nokia_8.3_5g](https://github.com/HMD-OSS-Archive/android_kernel_nokia_8.3_5g) |
 | **Nokia 7.2** | `Nokia7.2_V1.400` | 2026-08-26 | [android_kernel_nokia_7.2](https://github.com/HMD-OSS-Archive/android_kernel_nokia_7.2) |
 | **Nokia 5.3** | `Nokia5.3_V1.120` | 2026-08-26 | [android_kernel_nokia_5.3](https://github.com/HMD-OSS-Archive/android_kernel_nokia_5.3) |
-| **Nokia G20** | *Import Failed* | 2026-08-26 | [android_kernel_nokia_g20](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g20) |
 | **Nokia G11** | `NokiaG11_v1.380` | 2026-08-26 | [android_kernel_nokia_g11](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g11) |
 | **HMD Vibe 5G** | `HMD_Vibe_5G_V1.050.tar` | 2026-08-26 | [android_kernel_hmd_vibe_5g](https://github.com/HMD-OSS-Archive/android_kernel_hmd_vibe_5g) |
 | **Nokia 5.4** | `Nokia5.4_V1.150` | 2026-08-26 | [android_kernel_nokia_5.4](https://github.com/HMD-OSS-Archive/android_kernel_nokia_5.4) |
@@ -65,10 +68,7 @@ The table below provides a summary of all archived devices.
 | **HMD Pulse Pro** | `HMDPulsePro_V2.170.tar-r2` | 2026-08-26 | [android_kernel_hmd_pulse_pro](https://github.com/HMD-OSS-Archive/android_kernel_hmd_pulse_pro) |
 | **Nokia C10** | `NokiaC10_V1.160_B01` | 2026-08-26 | [android_kernel_nokia_c10](https://github.com/HMD-OSS-Archive/android_kernel_nokia_c10) |
 | **Nokia C210** | `NokiaC210_V1.100` | 2026-08-26 | [android_kernel_nokia_c210](https://github.com/HMD-OSS-Archive/android_kernel_nokia_c210) |
-| **HMD Aura** | *Import Failed* | 2026-08-26 | [android_kernel_hmd_aura](https://github.com/HMD-OSS-Archive/android_kernel_hmd_aura) |
-| **Nokia C12** | *Import Failed* | 2026-08-26 | [android_kernel_nokia_c12](https://github.com/HMD-OSS-Archive/android_kernel_nokia_c12) |
 | **HMD Pulse** | `HMDPulse_V2.170.tar-r2` | 2026-08-26 | [android_kernel_hmd_pulse](https://github.com/HMD-OSS-Archive/android_kernel_hmd_pulse) |
-| **Nokia 1.4** | *Import Failed* | 2026-08-26 | [android_kernel_nokia_1.4](https://github.com/HMD-OSS-Archive/android_kernel_nokia_1.4) |
 | **HMD Pulse+** | `HMDPulse+_V2.170.tar-r2` | 2026-08-26 | [android_kernel_hmd_pulse_plus](https://github.com/HMD-OSS-Archive/android_kernel_hmd_pulse_plus) |
 | **HMD T21** | `HmdT21_V3.210` | 2026-08-26 | [android_kernel_hmd_t21](https://github.com/HMD-OSS-Archive/android_kernel_hmd_t21) |
 | **Nokia 2.3** | `Nokia2.3_V3.311` | 2026-08-26 | [android_kernel_nokia_2.3](https://github.com/HMD-OSS-Archive/android_kernel_nokia_2.3) |
