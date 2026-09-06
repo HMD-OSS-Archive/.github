@@ -34,10 +34,10 @@ The table below provides a summary of all archived devices.
 
 | Device Name | Latest Kernel Version | Last Updated | Repository Link |
 |-------------|-----------------------|--------------|-----------------|
-| **Nokia G20** | *Import Failed* | 2026-08-30 | [android_kernel_nokia_g20](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g20) |
-| **Nokia C12** | *Import Failed* | 2026-08-30 | [android_kernel_nokia_c12](https://github.com/HMD-OSS-Archive/android_kernel_nokia_c12) |
-| **Nokia 1.4** | *Import Failed* | 2026-08-30 | [android_kernel_nokia_1.4](https://github.com/HMD-OSS-Archive/android_kernel_nokia_1.4) |
-| **HMD Aura** | *Import Failed* | 2026-08-30 | [android_kernel_hmd_aura](https://github.com/HMD-OSS-Archive/android_kernel_hmd_aura) |
+| **Nokia G20** | *Import Failed* | 2026-09-06 | [android_kernel_nokia_g20](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g20) |
+| **Nokia C12** | *Import Failed* | 2026-09-06 | [android_kernel_nokia_c12](https://github.com/HMD-OSS-Archive/android_kernel_nokia_c12) |
+| **HMD Aura** | *Import Failed* | 2026-09-06 | [android_kernel_hmd_aura](https://github.com/HMD-OSS-Archive/android_kernel_hmd_aura) |
+| **Nokia 1.4** | *Import Failed* | 2026-09-06 | [android_kernel_nokia_1.4](https://github.com/HMD-OSS-Archive/android_kernel_nokia_1.4) |
 | **Nokia X10** | `NokiaX10_v1.010` | 2026-08-26 | [android_kernel_nokia_x10](https://github.com/HMD-OSS-Archive/android_kernel_nokia_x10) |
 | **Nokia XR21** | `NokiaXR21_V3.150` | 2026-08-26 | [android_kernel_nokia_xr21](https://github.com/HMD-OSS-Archive/android_kernel_nokia_xr21) |
 | **Nokia G42 5G** | `NokiaG425G_V2.160` | 2026-08-26 | [android_kernel_nokia_g42_5g](https://github.com/HMD-OSS-Archive/android_kernel_nokia_g42_5g) |
